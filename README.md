@@ -22,6 +22,6 @@ When creating a Block object, there are some required fields (in this order):
 | Previous Hash | A reference to the previously used hash in the BlockChain |
 | Hash | The hash value of the current Block |
 
-### BlockChain.calculate_hash
+### Block.calculate_hash
 
 Returns the hash value of the Block object.
